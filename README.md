@@ -77,13 +77,6 @@ This project focuses on forecasting NVIDIA's stock prices using the ARIMA (AutoR
 
 ---
 
-## 📷 Sample Visualization
-
-![Sample Plot](https://upload.wikimedia.org/wikipedia/commons/3/3e/Matplotlib_logo.svg)  
-*(Note: Replace with actual generated plot when pushing to repository)*
-
----
-
 ## 💡 Key Learnings
 
 - Time series forecasting requires careful data preparation, including resampling and stationarity checks.
@@ -106,11 +99,3 @@ This project focuses on forecasting NVIDIA's stock prices using the ARIMA (AutoR
    ```
 
 ---
-
-## 📄 Resume Line
-
-> **NVIDIA Stock Price Forecasting (Time Series):** Forecasted stock prices using ARIMA on 365 days of open price data. Visualized predictions and trends using Matplotlib, evaluated RMSE = 4.8.
-
----
-
-✅ **This project demonstrates practical time series forecasting techniques applied to real-world financial data with clear visualization and performance evaluation.**
